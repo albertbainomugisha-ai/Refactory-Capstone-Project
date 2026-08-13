@@ -45,7 +45,7 @@ Repeat purchase within 90 days
 - PR-AUC
 
 ## Deployment
-
+https://colab.research.google.com/drive/1ORrt8bT1V4NMFDwfJcqv1yYG6OhBr4X0?usp=sharing
 Streamlit web application
 
 ## Business Application
